@@ -17,6 +17,8 @@ body h2 {
     color: indianred;
 }
 
+
+
 #cavergera {
 width: 70%;
 padding: 1em;
@@ -26,4 +28,11 @@ margin: 0 auto;
 background-color: indigo;
 box-shadow: 0px 2px 50px 0px cyan;
 border-radius: 1em;
+}
+
+
+#logo {
+max-width: 10%;
+max-height: 10%;
+align-items: center;
 }
